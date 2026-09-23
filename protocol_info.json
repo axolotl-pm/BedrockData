@@ -3,9 +3,9 @@
         "major": 1,
         "minor": 26,
         "patch": 60,
-        "revision": 27,
+        "revision": 28,
         "beta": false,
-        "protocol_version": 2211
+        "protocol_version": 2216
     },
     "packets": {
         "LoginPacket": 1,
@@ -242,6 +242,7 @@
         "ClientboundMatchmakingStatePacket": 353,
         "ServerboundStonecutterSetRecipePacket": 354,
         "ClientboundStonecutterSetRecipePacket": 355,
-        "ServerboundMatchmakingCancelPacket": 356
+        "ServerboundMatchmakingCancelPacket": 356,
+        "SetPassengerOfBlockPacket": 357
     }
 }
