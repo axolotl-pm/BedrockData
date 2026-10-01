@@ -3,9 +3,9 @@
         "major": 1,
         "minor": 26,
         "patch": 60,
-        "revision": 28,
+        "revision": 29,
         "beta": false,
-        "protocol_version": 2216
+        "protocol_version": 2223
     },
     "packets": {
         "LoginPacket": 1,
@@ -243,6 +243,9 @@
         "ServerboundStonecutterSetRecipePacket": 354,
         "ClientboundStonecutterSetRecipePacket": 355,
         "ServerboundMatchmakingCancelPacket": 356,
-        "SetPassengerOfBlockPacket": 357
+        "SetPassengerOfBlockPacket": 357,
+        "ServerboundCursorItemDragPacket": 358,
+        "ClientboundPlayAudioContentPacket": 359,
+        "ServerboundRegisterAudioContentPacket": 360
     }
 }
