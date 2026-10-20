@@ -3,9 +3,9 @@
         "major": 1,
         "minor": 26,
         "patch": 60,
-        "revision": 29,
+        "revision": 30,
         "beta": false,
-        "protocol_version": 2223
+        "protocol_version": 2225
     },
     "packets": {
         "LoginPacket": 1,
