@@ -1046,5 +1046,62 @@
         "items": [
             "minecraft:reinforced_deepslate"
         ]
+    },
+    {
+        "group_icon": "minecraft:frostbite_spawn_egg",
+        "group_name": "itemGroup.name.spawnEgg",
+        "items": [
+            "minecraft:frostbite_spawn_egg"
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            "minecraft:icicle",
+            "minecraft:ice_crystal"
+        ]
+    },
+    {
+        "group_icon": "minecraft:potion",
+        "group_name": "itemGroup.name.potion",
+        "items": [
+            {
+                "meta": 47,
+                "name": "minecraft:potion"
+            },
+            {
+                "meta": 48,
+                "name": "minecraft:potion"
+            }
+        ]
+    },
+    {
+        "group_icon": "minecraft:splash_potion",
+        "group_name": "itemGroup.name.splashPotion",
+        "items": [
+            {
+                "meta": 47,
+                "name": "minecraft:splash_potion"
+            },
+            {
+                "meta": 48,
+                "name": "minecraft:splash_potion"
+            }
+        ]
+    },
+    {
+        "group_icon": "minecraft:lingering_potion",
+        "group_name": "itemGroup.name.lingeringPotion",
+        "items": [
+            {
+                "meta": 47,
+                "name": "minecraft:lingering_potion"
+            },
+            {
+                "meta": 48,
+                "name": "minecraft:lingering_potion"
+            }
+        ]
     }
 ]

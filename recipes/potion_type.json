@@ -1465,6 +1465,45 @@
     },
     {
         "ingredient": {
+            "name": "minecraft:ice_ball"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 47,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:ice_ball"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 47,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:ice_ball"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 47,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
             "name": "minecraft:magma_cream"
         },
         "input": {

@@ -947,6 +947,32 @@
         ],
         "temperature": 2
     },
+    "minecraft:ice_caves": {
+        "depth": 0.1,
+        "downfall": 0,
+        "foliageSnow": 0,
+        "id": 65535,
+        "mapWaterColour": {
+            "a": 166,
+            "b": 255,
+            "g": 183,
+            "r": 96
+        },
+        "rain": false,
+        "scale": 0.2,
+        "tags": [
+            "caves",
+            "ice_caves",
+            "overworld",
+            "monster",
+            "no_dirt",
+            "no_granite",
+            "hosted_ores",
+            "intrusive_deposits",
+            "no_glow_lichen"
+        ],
+        "temperature": 0
+    },
     "minecraft:ice_mountains": {
         "depth": 0.45,
         "downfall": 0.5,

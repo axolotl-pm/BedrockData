@@ -311,6 +311,14 @@
             {
                 "meta": 47,
                 "name": "minecraft:arrow"
+            },
+            {
+                "meta": 48,
+                "name": "minecraft:arrow"
+            },
+            {
+                "meta": 49,
+                "name": "minecraft:arrow"
             }
         ]
     },
@@ -1150,6 +1158,13 @@
         "items": [
             "minecraft:spyglass",
             "minecraft:brush"
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            "minecraft:ice_ball"
         ]
     }
 ]
