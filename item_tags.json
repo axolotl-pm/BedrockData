@@ -392,6 +392,10 @@
         "minecraft:stone_pickaxe",
         "minecraft:wooden_pickaxe"
     ],
+    "minecraft:is_pickaxe_item_destructible": [
+        "minecraft:ice_crystal",
+        "minecraft:icicle"
+    ],
     "minecraft:is_shears": [
         "minecraft:shears"
     ],
@@ -708,6 +712,7 @@
         "minecraft:evoker_spawn_egg",
         "minecraft:fox_spawn_egg",
         "minecraft:frog_spawn_egg",
+        "minecraft:frostbite_spawn_egg",
         "minecraft:ghast_spawn_egg",
         "minecraft:glow_squid_spawn_egg",
         "minecraft:goat_spawn_egg",
