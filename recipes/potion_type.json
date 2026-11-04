@@ -2161,6 +2161,45 @@
             "name": "minecraft:redstone"
         },
         "input": {
+            "meta": 47,
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 48,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:redstone"
+        },
+        "input": {
+            "meta": 47,
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 48,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:redstone"
+        },
+        "input": {
+            "meta": 47,
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 48,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:redstone"
+        },
+        "input": {
             "meta": 5,
             "name": "minecraft:lingering_potion"
         },

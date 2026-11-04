@@ -414,6 +414,7 @@
             "minecraft:carrot_on_a_stick",
             "minecraft:warped_fungus_on_a_stick",
             "minecraft:snowball",
+            "minecraft:ice_ball",
             "minecraft:wind_charge",
             "minecraft:shears",
             "minecraft:flint_and_steel",
@@ -744,6 +745,14 @@
             {
                 "meta": 46,
                 "name": "minecraft:potion"
+            },
+            {
+                "meta": 47,
+                "name": "minecraft:potion"
+            },
+            {
+                "meta": 48,
+                "name": "minecraft:potion"
             }
         ]
     },
@@ -934,6 +943,14 @@
             },
             {
                 "meta": 46,
+                "name": "minecraft:splash_potion"
+            },
+            {
+                "meta": 47,
+                "name": "minecraft:splash_potion"
+            },
+            {
+                "meta": 48,
                 "name": "minecraft:splash_potion"
             }
         ]
@@ -1126,6 +1143,14 @@
             {
                 "meta": 46,
                 "name": "minecraft:lingering_potion"
+            },
+            {
+                "meta": 47,
+                "name": "minecraft:lingering_potion"
+            },
+            {
+                "meta": 48,
+                "name": "minecraft:lingering_potion"
             }
         ]
     },
@@ -1158,13 +1183,6 @@
         "items": [
             "minecraft:spyglass",
             "minecraft:brush"
-        ]
-    },
-    {
-        "group_icon": null,
-        "group_name": "",
-        "items": [
-            "minecraft:ice_ball"
         ]
     }
 ]

@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 26,
-        "patch": 60,
-        "revision": 6,
+        "patch": 70,
+        "revision": 23,
         "beta": false,
-        "protocol_version": 2225
+        "protocol_version": 2250
     },
     "packets": {
         "LoginPacket": 1,
@@ -157,8 +157,6 @@
         "ItemRegistryPacket": 162,
         "ClientboundDebugRendererPacket": 164,
         "SyncActorPropertyPacket": 165,
-        "AddVolumeEntityPacket": 166,
-        "RemoveVolumeEntityPacket": 167,
         "SimulationTypePacket": 168,
         "NpcDialoguePacket": 169,
         "EduUriResourcePacket": 170,
@@ -246,6 +244,11 @@
         "SetPassengerOfBlockPacket": 357,
         "ServerboundCursorItemDragPacket": 358,
         "ClientboundPlayAudioContentPacket": 359,
-        "ServerboundRegisterAudioContentPacket": 360
+        "ServerboundRegisterAudioContentPacket": 360,
+        "ChatPacket": 361,
+        "ServerboundRequestOnlineMusicPlaybackPacket": 362,
+        "ClientboundOnlineMusicPlaybackResponsePacket": 363,
+        "PlayerToggleArmorVisibilityRequestPacket": 364,
+        "ClientboundMusicPlaybackFailurePacket": 365
     }
 }

@@ -41447,6 +41447,267 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            "minecraft:polished_calcite"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            "minecraft:polished_calcite_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:calcite_pillar"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:calcite_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:polished_calcite_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:polished_calcite_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:calcite_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:polished_calcite_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:polished_calcite_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:calcite_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:polished_calcite_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:polished_calcite_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:cinnabar"
             }
         ],
@@ -43859,6 +44120,197 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:packed_ice"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_packed_ice"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice"
+            }
+        ],
+        "output": [
+            "minecraft:packed_ice_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:packed_ice_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:packed_ice_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:packed_ice_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice_bricks"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_packed_ice"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:packed_ice_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:packed_ice_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:packed_ice_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:packed_ice_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:pink_concrete"
             }
         ],
@@ -44180,6 +44632,226 @@
             {
                 "meta": 32767,
                 "name": "minecraft:polished_blackstone_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ],
+        "output": [
+            "minecraft:polished_calcite_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:polished_calcite_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:polished_calcite_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:polished_calcite_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:polished_calcite_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:polished_calcite_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:polished_calcite_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:polished_calcite_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:polished_calcite_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:polished_calcite_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_calcite_bricks"
             }
         ]
     },

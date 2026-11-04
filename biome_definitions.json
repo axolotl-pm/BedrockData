@@ -257,6 +257,7 @@
             "ocean",
             "overworld",
             "spawns_cold_variant_farm_animals",
+            "spawns_cold_variant_frogs",
             "fast_fishing",
             "high_seas"
         ],
@@ -284,6 +285,7 @@
             "taiga",
             "has_structure_trail_ruins",
             "spawns_cold_variant_farm_animals",
+            "spawns_cold_variant_frogs",
             "has_structure_abandoned_camp"
         ],
         "temperature": -0.5
@@ -336,7 +338,8 @@
             "mutated",
             "taiga",
             "overworld_generation",
-            "spawns_cold_variant_farm_animals"
+            "spawns_cold_variant_farm_animals",
+            "spawns_cold_variant_frogs"
         ],
         "temperature": -0.5
     },
@@ -407,6 +410,7 @@
             "ocean",
             "overworld",
             "spawns_cold_variant_farm_animals",
+            "spawns_cold_variant_frogs",
             "fast_fishing",
             "high_seas"
         ],
@@ -669,7 +673,8 @@
             "monster",
             "mountain",
             "overworld",
-            "spawns_cold_variant_farm_animals"
+            "spawns_cold_variant_farm_animals",
+            "spawns_cold_variant_frogs"
         ],
         "temperature": 0.2
     },
@@ -717,6 +722,7 @@
             "mountain",
             "overworld",
             "spawns_cold_variant_farm_animals",
+            "spawns_cold_variant_frogs",
             "has_structure_abandoned_camp"
         ],
         "temperature": 0.2
@@ -963,8 +969,11 @@
         "tags": [
             "caves",
             "ice_caves",
+            "frozen",
             "overworld",
             "monster",
+            "spawns_cold_variant_farm_animals",
+            "spawns_cold_variant_frogs",
             "no_dirt",
             "no_granite",
             "hosted_ores",
@@ -1215,6 +1224,7 @@
             "ocean",
             "overworld",
             "spawns_cold_variant_farm_animals",
+            "spawns_cold_variant_frogs",
             "spawns_polar_bears_on_alternate_blocks",
             "fast_fishing",
             "high_seas"
@@ -1933,7 +1943,8 @@
             "mountains",
             "monster",
             "overworld",
-            "spawns_cold_variant_farm_animals"
+            "spawns_cold_variant_farm_animals",
+            "spawns_cold_variant_frogs"
         ],
         "temperature": 1
     },
