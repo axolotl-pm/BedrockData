@@ -86,7 +86,9 @@
                 "block_states": "CgAACBMAcG90ZW50X3N1bGZ1cl9zdGF0ZQMAZHJ5AA==",
                 "name": "minecraft:potent_sulfur"
             },
-            "minecraft:polished_sulfur"
+            "minecraft:polished_sulfur",
+            "minecraft:calcite",
+            "minecraft:polished_calcite"
         ]
     },
     {
@@ -758,7 +760,6 @@
                 "block_states": "CgAACBQAbWluZWNyYWZ0OmJsb2NrX2ZhY2UCAHVwAA==",
                 "name": "minecraft:small_amethyst_bud"
             },
-            "minecraft:calcite",
             {
                 "block_states": "CgAACBMAZHJpcHN0b25lX3RoaWNrbmVzcwMAdGlwAQcAaGFuZ2luZwEA",
                 "name": "minecraft:sulfur_spike"

@@ -124,14 +124,6 @@
             },
             {
                 "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "name": "minecraft:mud_brick_wall"
-            },
-            {
-                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "name": "minecraft:resin_brick_wall"
-            },
-            {
-                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
                 "name": "minecraft:cinnabar_wall"
             },
             {
@@ -156,14 +148,6 @@
             },
             {
                 "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "name": "minecraft:packed_ice_brick_wall"
-            },
-            {
-                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "name": "minecraft:snow_brick_wall"
-            },
-            {
-                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
                 "name": "minecraft:calcite_wall"
             },
             {
@@ -173,6 +157,22 @@
             {
                 "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
                 "name": "minecraft:polished_calcite_brick_wall"
+            },
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:mud_brick_wall"
+            },
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:packed_ice_brick_wall"
+            },
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:snow_brick_wall"
+            },
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:resin_brick_wall"
             }
         ]
     },
@@ -507,7 +507,55 @@
             },
             {
                 "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:cinnabar_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:polished_cinnabar_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:cinnabar_brick_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:sulfur_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:polished_sulfur_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:sulfur_brick_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:calcite_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:polished_calcite_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:polished_calcite_brick_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:mud_brick_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:packed_ice_brick_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:snow_brick_stairs"
+            },
+            {
+                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:resin_brick_stairs"
             },
             {
                 "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
@@ -540,54 +588,6 @@
             {
                 "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:waxed_oxidized_cut_copper_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:resin_brick_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:cinnabar_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:polished_cinnabar_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:cinnabar_brick_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:sulfur_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:polished_sulfur_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:sulfur_brick_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:packed_ice_brick_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:snow_brick_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:calcite_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:polished_calcite_stairs"
-            },
-            {
-                "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:polished_calcite_brick_stairs"
             },
             {
                 "block_states": "CgAACBAAbWluZWNyYWZ0OmNvcm5lcgQAbm9uZQEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAA=",
@@ -1222,7 +1222,55 @@
             },
             {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:cinnabar_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:polished_cinnabar_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:cinnabar_brick_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:sulfur_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:polished_sulfur_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:sulfur_brick_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:calcite_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:polished_calcite_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:polished_calcite_brick_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "name": "minecraft:mud_brick_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:packed_ice_brick_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:snow_brick_slab"
+            },
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:resin_brick_slab"
             },
             {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
@@ -1255,54 +1303,6 @@
             {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "name": "minecraft:waxed_oxidized_cut_copper_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:resin_brick_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:cinnabar_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:polished_cinnabar_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:cinnabar_brick_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:sulfur_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:polished_sulfur_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:sulfur_brick_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:packed_ice_brick_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:snow_brick_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:calcite_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:polished_calcite_slab"
-            },
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:polished_calcite_brick_slab"
             },
             {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
@@ -1460,15 +1460,11 @@
             "minecraft:chiseled_cinnabar",
             "minecraft:sulfur_bricks",
             "minecraft:chiseled_sulfur",
-            "minecraft:packed_ice_bricks",
-            "minecraft:chiseled_packed_ice",
-            "minecraft:snow_bricks",
+            "minecraft:polished_calcite_bricks",
             {
                 "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:calcite_pillar"
-            },
-            "minecraft:polished_calcite",
-            "minecraft:polished_calcite_bricks"
+            }
         ]
     },
     {
@@ -1823,7 +1819,10 @@
                 "name": "minecraft:purpur_pillar"
             },
             "minecraft:packed_mud",
-            "minecraft:mud_bricks"
+            "minecraft:mud_bricks",
+            "minecraft:packed_ice_bricks",
+            "minecraft:chiseled_packed_ice",
+            "minecraft:snow_bricks"
         ]
     },
     {

@@ -3,9 +3,9 @@
         "major": 1,
         "minor": 26,
         "patch": 70,
-        "revision": 23,
+        "revision": 24,
         "beta": false,
-        "protocol_version": 2250
+        "protocol_version": 2259
     },
     "packets": {
         "LoginPacket": 1,
@@ -249,6 +249,8 @@
         "ServerboundRequestOnlineMusicPlaybackPacket": 362,
         "ClientboundOnlineMusicPlaybackResponsePacket": 363,
         "PlayerToggleArmorVisibilityRequestPacket": 364,
-        "ClientboundMusicPlaybackFailurePacket": 365
+        "ClientboundMusicPlaybackFailurePacket": 365,
+        "VirtualContainerOpenPacket": 366,
+        "VirtualContainerClosePacket": 367
     }
 }
